@@ -1,13 +1,16 @@
 {
-  "name": "envybot",
-  "description": "discordbot",
-  "version": "0.0.0",
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "discord bot new",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "aj",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-   }
+    "cleverbot": "^1.0.1",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0"
+  }
 }
