@@ -1,2 +1,2 @@
-# envybotV2
-lol
+# Discord-Curreny-Bot
+
