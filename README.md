@@ -1,2 +1,2 @@
-# Discord-Curreny-Bot
+# Discord-Currency-Bot
 
